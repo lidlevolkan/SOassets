@@ -1,1 +1,3 @@
-# SOresources
+# SOassets
+
+SonOyuncu assets dosyası (resourcepack)
